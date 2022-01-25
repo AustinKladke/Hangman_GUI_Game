@@ -144,7 +144,7 @@ def start_new_game():
 
 def stats_function():
     print("Stats")
-    #statistics_window.show(wait=True)
+    statistics_window.show(wait=True)
     
 def graph_selector():
     print("Graph selected")
